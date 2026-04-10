@@ -1,4 +1,8 @@
-Comando SQL para criar o banco de dados: 
+Sistema de Gestão de Alunos desenvolvido em Java utilizando Programação Orientada a Objetos, interface gráfica com Swing e banco de dados MySQL.
+O sistema permite cadastrar, alterar, remover e listar alunos, além de calcular o IMC automaticamente e gerar um relatório com estatísticas dos dados.
+
+
+-Comando SQL para criar o banco de dados: 
 
 CREATE DATABASE sistema_alunos;
 
